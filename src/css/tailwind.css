@@ -1,0 +1,28 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'fonts.css';
+@import 'type.css';
+@import 'layout.css';
+
+:root {
+  --screen-size: theme('screens.xxl');
+  --outer-gutter: theme('spacing.sm');
+  --navbar-height: 70px;
+  --gradient-default: linear-gradient(70deg, theme('colors.purple') 0%, theme('colors.blue') 60%, theme('colors.blue-light') 100%);
+}
+
+@screen md {
+  :root {
+    --outer-gutter: theme('spacing.lg');
+    --navbar-height: 90px;
+  }
+}
+
+@layer components {
+  .t-gradient {
+    background-image: var(--gradient-default);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}

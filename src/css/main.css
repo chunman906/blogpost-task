@@ -1,0 +1,22 @@
+@import 'tailwind.css';
+
+.container {
+  @apply px-sm md:px-md xl:px-lg
+    mx-auto;
+
+  max-width: 1500px;
+
+}
+
+.StoriesRow {
+  background-color: rgb(242, 241, 241);
+  margin: 24px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+}
+
+.Story {
+  flex: 0 0 30%;
+}

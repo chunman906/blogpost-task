@@ -1,0 +1,55 @@
+/* ------------------------------------ *\
+  #Layout
+\* ------------------------------------ */
+
+/**
+ * Horizontal wrapper class
+ */
+
+/* @TODO - Named global-wrapper to not conflict with existing wrapper class */
+.global-wrapper {
+  width: 100%;
+  max-width: var(--screen-size);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--outer-gutter);
+  padding-right: var(--outer-gutter);
+}
+
+/**
+ * Layout page transitions
+ */
+
+.layout-enter-active,
+.layout-leave-active {
+  transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.layout-enter,
+.layout-leave-to {
+  opacity: 0;
+}
+
+/**
+ * Generic fade, generic pages
+ */
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+
+.page-enter-to,
+.page-leave {
+  opacity: 1;
+}
+
+.is-default-theme {
+  background-color: theme('colors.white');
+  color: theme('colors.off-black');
+}

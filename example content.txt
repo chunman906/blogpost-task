@@ -1,0 +1,33 @@
+"title": "A Week in the Life: Pro Triathlete Ellie Salthouse",
+"desc": "Do you have what it takes to train like a pro? SunGod Pro triathlete Ellie Salthouse shares what it takes to make it to the top…",
+"cover_img": "https://static.sungod.co/story-images/620642ae5a9df3.93433551_keglfohjnqimp.jpeg",
+"loading_img": "https://imgproxy.sungod.co/lYzm-MXqQNohMMk_hwCyJWr-RHgSi86M-Pl3olLtfN4/fill/80/60/no/1/aHR0cHM6Ly9zdGF0/aWMuc3VuZ29kLmNv/L3N0b3J5LWltYWdl/cy82MjA2NDJhZTVh/OWRmMy45MzQzMzU1/MV9rZWdsZm9oam5x/aW1wLmpwZWc.jpeg",
+"url": "ellie-salthouse-week",
+"date": "2022-02-17",
+"status": "Live",
+"keywords": "SunGod,sunglasses,training,ellie salthouse,australian,pro athlete,triathlon,triathlete,ironman,long distance,training plan",
+"image800": "https://imgproxy.sungod.co/Sswym40wh83_cFbE1bsevJbEW7AFvKPdR7uXk7T5yT0/fill/800/600/no/1/aHR0cHM6Ly9zdGF0/aWMuc3VuZ29kLmNv/L3N0b3J5LWltYWdl/cy82MjA2NDJhZTVh/OWRmMy45MzQzMzU1/MV9rZWdsZm9oam5x/aW1wLmpwZWc.jpeg"
+
+-------
+
+"title": "SunGod X BIKE AID",
+"desc": "We’re proud to be partnering with Germany’s most successful UCI Continental team",
+"cover_img": "https://static.sungod.co/story-images/62062e207f9716.21843215_igofheplkjnqm.jpeg",
+"loading_img": "https://imgproxy.sungod.co/JVME3LZswGq6XBPccVbSqCWAsIVXRpsH8al1-GcCBog/fill/80/60/no/1/aHR0cHM6Ly9zdGF0/aWMuc3VuZ29kLmNv/L3N0b3J5LWltYWdl/cy82MjA2MmUyMDdm/OTcxNi4yMTg0MzIx/NV9pZ29maGVwbGtq/bnFtLmpwZWc.jpeg",
+"url": "sungod-x-bikeaid",
+"date": "2022-02-15",
+"status": "Live",
+"keywords": "",
+"image800": "https://imgproxy.sungod.co/Mm7fNT_uGbcrbcHXgweuB4CieEzPwKDf1LXZJ9-vXVo/fill/800/600/no/1/aHR0cHM6Ly9zdGF0/aWMuc3VuZ29kLmNv/L3N0b3J5LWltYWdl/cy82MjA2MmUyMDdm/OTcxNi4yMTg0MzIx/NV9pZ29maGVwbGtq/bnFtLmpwZWc.jpeg"
+
+-------
+
+"title": "6 Unique Ski Adventures",
+"desc": "Here is all the inspiration you need to plan the ski trip of a lifetime…",
+"cover_img": "https://static.sungod.co/story-images/61fba7f3013c28.40387844_ikhqfomgpnejl.jpeg",
+"loading_img": "https://imgproxy.sungod.co/VDMi91-k3LUgADaaG3Lw3qnaXXnOC22QBlDjn77BvDA/fill/80/60/no/1/aHR0cHM6Ly9zdGF0/aWMuc3VuZ29kLmNv/L3N0b3J5LWltYWdl/cy82MWZiYTdmMzAx/M2MyOC40MDM4Nzg0/NF9pa2hxZm9tZ3Bu/ZWpsLmpwZWc.jpeg",
+"url": "6-unique-ski-adventures",
+"date": "2022-02-09",
+"status": "Live",
+"keywords": "",
+"image800": "https://imgproxy.sungod.co/i3UnzX4mk-w0KhpFLrVYFVfUKA38yqeNxNpuw36qXsM/fill/800/600/no/1/aHR0cHM6Ly9zdGF0/aWMuc3VuZ29kLmNv/L3N0b3J5LWltYWdl/cy82MWZiYTdmMzAx/M2MyOC40MDM4Nzg0/NF9pa2hxZm9tZ3Bu/ZWpsLmpwZWc.jpeg"

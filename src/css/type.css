@@ -1,0 +1,109 @@
+/* ------------------------------------ *\
+  #Typography
+\* ------------------------------------ */
+
+.t-h1-lg,
+.t-h1,
+.t-h2,
+.t-h3,
+.t-h4,
+.t-h5 {
+  @apply font-semibold;
+}
+
+.t-h1-lg,
+.t-h1,
+.t-h2,
+.t-h3,
+.t-h4,
+.t-h5,
+.t-body,
+.t-body-sm {
+  @apply font-sans
+    m-0
+    antialiased;
+}
+
+.t-h1,
+.t-h2,
+.t-h3,
+.t-h4,
+.t-h5,
+.t-body {
+  @apply normal-case;
+}
+
+.t-h1-lg {
+  @apply text-4xl
+    leading-tighter
+    tracking-tighter
+    uppercase
+    md:text-huge;
+}
+
+.t-h1 {
+  @apply text-xl
+    leading-tight
+    tracking-tight
+    md:text-4xl;
+}
+
+.t-h2 {
+  @apply text-md
+    leading-tight
+    tracking-tight
+    md:text-2xl;
+}
+
+.t-h3 {
+  @apply text-base
+    leading-tight
+    md:text-lg;
+}
+
+.t-h4 {
+  @apply text-sm
+    leading-tight
+    tracking-tight
+    md:text-base;
+}
+
+.t-h5 {
+  @apply text-xxs
+    leading-tight
+    tracking-wider
+    md:text-xs;
+}
+
+.t-light {
+  @apply font-light;
+}
+
+.t-body {
+  @apply text-sm
+    font-light
+    leading-normal
+    md:text-base;
+
+  strong {
+    @apply font-bold;
+  }
+}
+
+.t-body-sm {
+  @apply text-xxs
+    font-light
+    leading-normal
+    md:text-xs
+    md:tracking-wide;
+}
+
+/**
+* Custom Text Utilities.
+*/
+
+/* Fixes vertical alignment issue with Lausanne font */
+.t-align-fix {
+  display: block;
+  transform: translateY(2px);
+}
