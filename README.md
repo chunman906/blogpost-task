@@ -1,1 +1,1 @@
-- Create three blog post for the front end vistual apearlling for web site with implementation of Tailwind CSS.
+- Create three blog post for the front end  visual appealing for web site with implementation of Tailwind CSS.
